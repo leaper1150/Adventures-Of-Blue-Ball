@@ -1,1 +1,5 @@
-A simple game about a rolling ball on a quest to reach the coveted treasure. This is still a work in progress — right now, it only has a map and basic movement since I’m still learning Godot and taking things slowly. I’m mainly submitting this so I don’t lose my dev hours. It’s my very first game (outside of Scratch), so please go easy on me! If you have any suggestions or feedback, feel free to email me at yoyo34yye@gmail.com [in honor of Bigro] 
+a game about a rolling ball trying to reach the coveted treasure
+I decided to end this project early due to my dishonest actions towards YSWS
+and other participants in siege.hackclub.com
+
+I am truly sorry.
